@@ -13,20 +13,22 @@ This folder contains the practical exercises completed during Day 3 of my Machin
 * Supervised Learning
 * Unsupervised Learning
 
+### Scikit-Learn Basics
+
+* Installing and Importing Scikit-Learn
+* Features (X)
+* Target Variables (Y)
+* Model Training
+* Predictions
+
 ### Linear Regression
 
 * Linear Regression
 * Multiple Linear Regression
-* Features (X)
-* Target Variable (Y)
-
-### Model Training
-
 * Train-Test Split
-* Model Training
-* Predictions
+* Model Evaluation
 
-### Model Evaluation
+### Evaluation Metrics
 
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
@@ -34,9 +36,13 @@ This folder contains the practical exercises completed during Day 3 of my Machin
 * Model Coefficients
 * Model Intercept
 
-## Projects Included
+## Programs Included
 
-### student_marks_predictor.py
+### scikit_learning.py
+
+Introduction to Scikit-Learn and basic machine learning workflow.
+
+### student_marks_prediction.py
 
 Predicts student marks using Linear Regression.
 
@@ -44,9 +50,17 @@ Predicts student marks using Linear Regression.
 
 Predicts house prices using housing-related features.
 
-### multiple_linear_regression.py
+### multiple_linear_progression.py
 
-Demonstrates Multiple Linear Regression using multiple input features.
+Demonstrates Multiple Linear Regression with multiple input features.
+
+### test_train.py
+
+Implements train-test split and model evaluation techniques.
+
+### Practice_models
+
+Additional practice implementations and experiments.
 
 ## Technologies Used
 
@@ -60,11 +74,13 @@ Demonstrates Multiple Linear Regression using multiple input features.
 * Understanding Machine Learning workflows
 * Building Linear Regression models
 * Training and testing datasets
-* Generating predictions
+* Making predictions
 * Evaluating model performance
+* Working with Scikit-Learn
 
 ## Author
 
 Dev Karan Singh
 
 Machine Learning Intern – SkillCraft Technology
+

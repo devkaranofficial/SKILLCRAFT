@@ -6,7 +6,7 @@ Welcome to my Machine Learning Internship repository. This repository documents 
 
 Hi, I'm **Dev Karan Singh**, a Computer Science student passionate about Machine Learning, Artificial Intelligence, Data Science, and Software Development.
 
-This repository serves as a record of my internship progress and showcases the skills, concepts, and projects I build throughout the program.
+This repository serves as a record of my internship progress and showcases the concepts, skills, and projects I build throughout the internship.
 
 ## 🎯 Internship Goals
 
@@ -33,7 +33,7 @@ This repository serves as a record of my internship progress and showcases the s
 
 ### ✅ Day 1 – Python Fundamentals
 
-**Topics Covered**
+#### Topics Covered
 
 * Variables and Data Types
 * User Input and Output
@@ -43,19 +43,17 @@ This repository serves as a record of my internship progress and showcases the s
 * Functions
 * File Handling
 
-**Project**
+#### Project
 
 * House Information Management Program
 
-**Folder**
+#### Folder
 
 `Day1-Python-Basics`
 
 ---
 
 ### ✅ Day 2 – NumPy & Pandas
-
-**Topics Covered**
 
 #### NumPy
 
@@ -82,7 +80,7 @@ This repository serves as a record of my internship progress and showcases the s
 * Dataset Exploration
 * Data Analysis
 
-**Programs**
+#### Programs
 
 * Array Statistics Calculator
 * Student Marks Analyzer
@@ -91,7 +89,7 @@ This repository serves as a record of my internship progress and showcases the s
 * Employee Salary Analyzer
 * CSV Basics
 
-**Folder**
+#### Folder
 
 `Day2-NumPy-Pandas`
 
@@ -99,7 +97,7 @@ This repository serves as a record of my internship progress and showcases the s
 
 ### ✅ Day 3 – Machine Learning Basics
 
-**Topics Covered**
+#### Topics Covered
 
 * What is Machine Learning
 * AI vs ML vs Deep Learning
@@ -118,13 +116,13 @@ This repository serves as a record of my internship progress and showcases the s
 * Model Coefficients
 * Model Intercept
 
-**Projects**
+#### Projects
 
 * Student Marks Predictor
 * House Price Predictor
 * Multiple Linear Regression Predictor
 
-**Folder**
+#### Folder
 
 `Day3-Machine-Learning`
 
@@ -134,7 +132,7 @@ This repository serves as a record of my internship progress and showcases the s
 
 ### ✅ SkillCraft Task 01 – House Price Prediction using Linear Regression
 
-**Problem Statement**
+#### Problem Statement
 
 Predict house prices using:
 
@@ -142,31 +140,31 @@ Predict house prices using:
 * Number of Bedrooms
 * Number of Bathrooms
 
-**Dataset**
+#### Dataset
 
 * Ames Housing Dataset
 
-**Features Used**
+#### Features Used
 
 * GrLivArea
 * BedroomAbvGr
 * FullBath
 
-**Target**
+#### Target Variable
 
 * SalePrice
 
-**Workflow**
+#### Workflow
 
 * Dataset Loading
 * Feature Selection
 * Train-Test Split
-* Linear Regression
+* Linear Regression Model Training
 * Predictions
 * Actual vs Predicted Comparison
 * Model Evaluation
 
-**Results**
+#### Results
 
 | Metric   | Value            |
 | -------- | ---------------- |
@@ -174,9 +172,58 @@ Predict house prices using:
 | MSE      | 2,806,426,667.25 |
 | R² Score | 0.6341           |
 
-**Folder**
+#### Folder
 
 `SkillCraft-Task01-House-Price-Prediction`
+
+---
+
+### ✅ SkillCraft Task 02 – Customer Segmentation using K-Means Clustering
+
+#### Problem Statement
+
+Create a K-Means clustering algorithm to group customers of a retail store based on their purchasing behavior and spending patterns.
+
+#### Dataset
+
+* Mall Customer Segmentation Dataset
+
+#### Features Used
+
+* Annual Income (k$)
+* Spending Score (1–100)
+
+#### Concepts Applied
+
+* Unsupervised Learning
+* K-Means Clustering
+* WCSS (Within Cluster Sum of Squares)
+* Elbow Method
+* Cluster Centroids
+* Customer Segmentation
+* Data Visualization
+
+#### Workflow
+
+* Dataset Loading
+* Feature Selection
+* WCSS Calculation
+* Elbow Method Analysis
+* Optimal Cluster Selection
+* K-Means Model Training
+* Customer Segmentation
+* Cluster Visualization
+
+#### Results
+
+* Determined the optimal number of clusters using the Elbow Method.
+* Successfully segmented customers into 5 distinct groups.
+* Visualized customer clusters and cluster centroids.
+* Interpreted customer behavior based on income and spending patterns.
+
+#### Folder
+
+`SCT_ML_2`
 
 ---
 
@@ -194,12 +241,18 @@ Predict house prices using:
 * Pandas
 * CSV Handling
 * Dataset Exploration
+* Data Visualization
 
 ### Machine Learning
 
-* Data Preprocessing
-* Feature Selection
+* Supervised Learning
+* Unsupervised Learning
 * Linear Regression
+* K-Means Clustering
+* Customer Segmentation
+* Elbow Method
+* Feature Selection
+* Data Preprocessing
 * Model Training
 * Predictions
 * Model Evaluation
@@ -208,17 +261,19 @@ Predict house prices using:
 
 * Git & GitHub
 * Documentation
+* Repository Management
 * Project Organization
 
 ## 📂 Repository Structure
 
 ```text
-Machine-Learning-Internship
+SKILLCRAFT
 │
 ├── Day1-Python-Basics
 ├── Day2-NumPy-Pandas
 ├── Day3-Machine-Learning
-└── SkillCraft-Task01-House-Price-Prediction
+├── SkillCraft-Task01-House-Price-Prediction
+└── SCT_ML_2
 ```
 
 ## 📌 Current Progress
@@ -231,22 +286,28 @@ Machine-Learning-Internship
 
 ✅ SkillCraft Task 01 Completed
 
+✅ SkillCraft Task 02 Completed
+
 ✅ GitHub Repository Setup Completed
 
-✅ LinkedIn Internship Profile Updated
+✅ LinkedIn Internship Portfolio Updated
 
-🚀 Preparing for SkillCraft Task 02
+🚀 Preparing for SkillCraft Task 03
 
 ## 🌐 Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/dev-karan-singh-979006413
+### LinkedIn
 
-GitHub:
+[www.linkedin.com/in/dev-karan-singh-979006413](http://www.linkedin.com/in/dev-karan-singh-979006413)
+
+### GitHub
+
 https://github.com/devkaranofficial
 
 ## ⭐ Repository Purpose
 
 This repository tracks my complete Machine Learning Internship journey, including learning notes, assignments, mini-projects, and Machine Learning implementations.
 
-Follow along as I continue learning, building projects, and exploring the world of Machine Learning.
+Each folder represents a milestone in my learning process and demonstrates the practical application of Machine Learning concepts through hands-on projects.
+
+Follow along as I continue learning, building projects, and exploring the exciting world of Machine Learning and Artificial Intelligence.

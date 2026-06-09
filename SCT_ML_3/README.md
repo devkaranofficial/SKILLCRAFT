@@ -231,15 +231,20 @@ Through this project, I learned:
 * Improve classification accuracy using Deep Learning
 
 ---
+## Dataset
+
+The Cats vs Dogs dataset was used for this project.
+
+Due to GitHub storage limitations, the dataset is not included in this repository.
+
+Dataset Source:
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+
 
 ## Repository Structure
 
 ```text
 Task 03/
-│
-├── Data/
-│   ├── cat images
-│   └── dog images
 │
 ├── Support_Vector_Machine.py
 ├── README.md
